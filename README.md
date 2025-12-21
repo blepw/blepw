@@ -1,16 +1,40 @@
-## Hi there 👋
+### 👤 whoami 
+I am an undergraduate computer science student with the objective of progressing into a senior security engineering role. My work focuses on developing foundational skills in penetration testing, automation, and security tooling. This profile is used to document technical projects and learning outcomes . 
 
-<!--
-**blepw/blepw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/acf0279b-d463-4b57-940e-5dbf7bc37aaf" width="48%" alt="neofetch" />
+  <img src="https://github.com/user-attachments/assets/b1dd64ca-b3fc-4025-a56c-c512ffe29b0d" width="48%" alt="v2" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Working on
+I am currently developing two projects. The first is a Python-based management and OSINT automation bot with dedicated implementations for Telegram and Discord. It provides administrative functionality for group and guild moderation, including access control, content moderation, and policy enforcement, alongside an extensive set of OSINT-related commands. The project comprises over 250 commands. The second project is a multi-language analytical framework inspired by Maltego, focused on social network analysis (SNA), open-source intelligence (OSINT), and cybercrime detection.
+
+### 🧰 Languages & Tools 
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
+<img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/php/original.svg"></img>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/lua/original-wordmark.svg"></img>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/github/original.svg"></img>
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/azure/original.svg"></img>
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/redis/original-wordmark.svg"></img>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mongodb/original.svg"></img>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Rpi" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/raspberrypi/original.svg"></img>
+<img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/openal/original.svg"></img>
+<img align="left" alt="Opencv" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/opencv/original-wordmark.svg"></img>
+<img align="left" alt="Opencv" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/numpy/original.svg"></img>
+<img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/pandas/original.svg"></img>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
+<img align="left" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/pycharm/original.svg"> &nbsp;&nbsp;&nbsp; </img>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
