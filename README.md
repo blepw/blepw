@@ -1,9 +1,9 @@
 ### 👤 whoami 
 I am an undergraduate computer science student with the objective of progressing into a senior security engineering role. My work focuses on developing foundational skills in penetration testing, automation, and security tooling. This profile is used to document technical projects and learning outcomes . 
 
-align="center">
-  <img width="803" height="563" alt="neofetch" src="https://github.com/user-attachments/assets/379a310a-2f76-4bfa-a132-152d58afc894" />
-  <img width="716" height="572" alt="v2" src="https://github.com/user-attachments/assets/2de10c0b-5c6c-4d51-b020-4aec397d1fbf" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/379a310a-2f76-4bfa-a132-152d58afc894" width="48%" alt="neofetch" />
+  <img src="https://github.com/user-attachments/assets/2de10c0b-5c6c-4d51-b020-4aec397d1fbf" width="48%" alt="v2" />
 </p>
 
 
