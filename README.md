@@ -19,6 +19,8 @@ I am currently developing two projects. The first is a Python-based management a
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/lua/original-wordmark.svg"></img>
+<img align="left" alt="Tauri" width="30px" style="padding-right:10px;" src="![tauri](https://github.com/user-attachments/assets/6d4cf714-0f2d-4ada-9940-a70f81f72d70)"></img>
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/rust/plain.svg"></img>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/github/original.svg"></img>
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/azure/original.svg"></img>
