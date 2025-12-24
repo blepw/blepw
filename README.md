@@ -1,5 +1,5 @@
 ### 👤 whoami 
-I am an undergraduate Computer Science student with the objective of progressing into either a Cybersecurity role or System Architecture Engineering. My work focuses on developing strong foundations in penetration testing, automation, security tooling, and real-world scalable systems, including homelabbing, database design and optimization, and payment system integration. This profile serves to document technical projects, structured experimentation, and learning outcomes, with an emphasis on engineering practices applicable to production-scale environments.
+I am an undergraduate Computer Science student with the objective of progressing into either a Cyberintelligence role or System Architecture Engineering. My work focuses on developing strong foundations in penetration testing, automation, security tooling, and real-world scalable systems, including homelabbing, database design , OSINT. And payment system integration. This profile serves to document technical projects, structured experimentation, and learning outcomes, with an emphasis on engineering practices applicable to production-scale environments.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/379a310a-2f76-4bfa-a132-152d58afc894" width="48%" alt="neofetch" />
